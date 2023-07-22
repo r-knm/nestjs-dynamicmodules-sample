@@ -1,0 +1,3 @@
+const SRCH_OPTIONS = 'SRCH_OPTIONS';
+
+export { SRCH_OPTIONS };
