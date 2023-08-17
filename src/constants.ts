@@ -1,3 +1,3 @@
-const SRCH_OPTIONS = 'SRCH_OPTIONS';
+const CONFIG_OPTIONS = 'CONFIG_OPTIONS';
 
-export { SRCH_OPTIONS };
+export { CONFIG_OPTIONS };
